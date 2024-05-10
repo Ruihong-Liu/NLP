@@ -1,6 +1,6 @@
 # NLP
 This is the code for assessment NLP 2023-2024
-
+The path of the dataset needs to be changed to your dataset
 # requirment external libaray:
 pip install pandas
 pip install nltk
